@@ -1,3 +1,4 @@
 print('invite')
-a = int(input())
-b = int(input())
+a = int(input('a: '))
+b = int(input('b: '))
+print(f'a * b = {a * b}')
